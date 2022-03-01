@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Li]ntoun address revived, to His Highness the then Prince of Orange now monarch of Great Britain, &amp;c.</title>
+            <author>Pennecuik, Alexander, 1652-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04680</idno>
+            <idno type="STC">Wing P1396C</idno>
+            <idno type="STC">ESTC R181640</idno>
+            <idno type="EEBO-CITATION">51784611</idno>
+            <idno type="OCLC">ocm 51784611</idno>
+            <idno type="VID">175021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175021)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2709:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Li]ntoun address revived, to His Highness the then Prince of Orange now monarch of Great Britain, &amp;c.</title>
+                  <author>Pennecuik, Alexander, 1652-1722.</author>
+               </titleStmt>
+               <extent>[Edinburgh? : s.n., 1689]. </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">1 sheet ([1] p.)</name>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous: attributed to Alexander Pennecuik by Wing.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Imperfect: left side and bottom of sheet cropped, torn with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175021:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>NTOUN ADDRESS <hi>REVIVED,</hi> To His Highneſs the then Prince of ORANGE, now Monarch of GREAT BRITAIN, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <head>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>OLOGUE</head>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, Sir, ſtill Faithful to thy Word,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nquers more by Kindneſs than by Sword,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rs brave with Matchleſs Vigour,</l>
+               <l>
+                  <hi>Mogen,</hi> make ſo great a Figure;</l>
+               <l>
+                  <hi>Great Britains</hi> only <hi>Moſes,</hi>
+               </l>
+               <l>Mortal <hi>Thirstle</hi> with the <hi>Roſes,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>Harp</hi> in Tune to bring,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ride of <hi>Lillies</hi> in the <hi>Spring:</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, poor us, among the Preſs,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, to make this blunt Addreſs.</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, for as Your Highneſs knows,</l>
+               <l>ſtore of Nonſence, els in Proſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, That it may pleaſe</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>neſs, to give us an eaſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s more or leſs,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nave the Ceſs;</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Pitty cryes,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> dear Exciſe:</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> us when we ſay it</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e not able to pay it</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gh when we ſhould Sleep,</l>
+               <l>we ſhould go to Meet,</l>
+               <l>get it for to borrow,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſt to ſloken Sorrow,</l>
+               <l>Sir, makes us now</l>
+               <l>and till we be ſow:</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſs Forces ſtand,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> poor but Valiant Land,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>horick procure</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nly to the poor,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Courtiers get no ſhare,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Exchequer bare;</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we beg at Large,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arters quite Diſcharge,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Kings hye Street,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we miſs ſome Cheet,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or as they come by,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cold Or Dry,</l>
+               <l>Drink, and Burn our Piets,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arthing in their Breeks,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ay and preſs our Horſe,</l>
+               <l>our Heads, and that is worſe;</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Men, and Horſes meat,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th Wives and Bairns to greet.</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Your Highneſs may</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Stipends we can Pay;</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> if Ye wiſh us well,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpeed reconcile,<gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Who had great kindneſs for this Place</l>
+               <l>You'l move the Duke our Maſters Grace,</l>
+               <l>To put a Knock upon our Steeple,</l>
+               <l>To ſhew the Hours to Country People;</l>
+               <l>For we that live into the Town</l>
+               <l>Our ſight growes ſhort, by Sun go down,</l>
+               <l>And charge him, Sir. our Street to wend,</l>
+               <l>And Cawlay it from end to end,</l>
+               <l>Pay but the Workmen for their pains,</l>
+               <l>And we ſhall Joyntly Lead the Stonss,</l>
+               <l>In caſe Your Highneſs put him to it,</l>
+               <l>Our Market Cuſtoms well may do it</l>
+               <l>For of himſelf he is not Raſh,</l>
+               <l>Becauſe he wants the ready Caſh;</l>
+               <l>For if Your Highineſs for ſome Reaſons,</l>
+               <l>Should Honour <hi>Lintoun</hi> with your preſence,</l>
+               <l>Your Milk-white Poltray would turn Brown,</l>
+               <l>Ere Ye Ride half out through the Town,</l>
+               <l>And that would put upon our Name,</l>
+               <l>A blot of everlaſting ſhame,</l>
+               <l>Who are Reputed honeſt Fellows,</l>
+               <l>And ſtout as ever <hi>William Wallace,</hi>
+               </l>
+               <l>Laſtly, Great Sir, Diſcharge us all</l>
+               <l>To go to Court without a Call,</l>
+               <l>Diſcharge Lard <hi>Iſack</hi> and <hi>Hog-yards</hi>
+               </l>
+               <l>
+                  <hi>James Gifford</hi> and the <hi>Lintoun</hi> Lairds,</l>
+               <l>Old <hi>William Younger,</hi> and <hi>Geordie Purdie</hi>
+               </l>
+               <l>
+                  <hi>James Douglaſs, Scrogs</hi> and little <hi>Swordie</hi>
+               </l>
+               <l>And <hi>Engliſh Andrew,</hi> who his Skill,</l>
+               <l>To knap at every Word ſo well,</l>
+               <l>L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>King ſeat</hi> ſtay for the <hi>Town-head,</hi>
+               </l>
+               <l>T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll that old Pieviſh Wife be Dead,</l>
+               <l>And that they go on no pretence</l>
+               <l>To put this place to great Expence</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or yet ſhall Contribut their Share,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o any who are going there,</l>
+               <l>To ſtrive to be the greateſt Minion,</l>
+               <l>Or plead for this or that Opinion,</l>
+               <l>If we have any thing to Spare,</l>
+               <l>Poor Widows they ſhould be our Care,</l>
+               <l>The Fatherleſs; the Blind, and Lame,</l>
+               <l>Who ſtarve, yet for to beg think ſhame</l>
+               <l>So Farewill, Sir, here is no Treaſon,</l>
+               <l>But Wealth of Ryme, and part of Reaſon:</l>
+               <l>And for to ſave ſome needleſs coaſt</l>
+               <l>We ſend this our addreſs by poſt,</l>
+            </lg>
+            <lg>
+               <head>EPILOGUE:</head>
+               <l>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
